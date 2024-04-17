@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eaeaea;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #191918;
+      }
+
+      .cls-3 {
+        fill: #e0782b;
+      }
+    </style>
+  </defs>
+  <g id="ADIKO">
+    <g>
+      <path class="cls-3" d="M354.76,600H0V0h354.76c16.57,0,30,13.43,30,30v540c0,16.57-13.43,30-30,30Z"/>
+      <rect class="cls-2" x="184.94" width="384.76" height="600" rx="30" ry="30"/>
+      <path class="cls-1" d="M399.89,600c-16.57,0-30-13.43-30-30V30c0-16.57,13.43-30,30-30h200.11v600h-200.11Z"/>
+    </g>
+  </g>
+</svg>
