@@ -5,7 +5,7 @@
         <ul :class="{ 'nav-menu': true, 'active': isMenuOpen }">
           <li class="nav-item"><a @click="toggleMenu" href="#projects" class="fs-nav nav-link">Work</a></li>
           <li class="nav-item"><a @click="toggleMenu" href="#about" class="fs-nav nav-link">About</a></li>
-          <li class="nav-item"><a href="../assets/GRAPHICS/Jakub_Repa_Resume.pdf" target="_blank" class="fs-nav nav-link">Resumé</a></li>
+          <li class="nav-item"><a href="https://drive.google.com/file/d/1GwfGDHi0XcHrO6qqBgjaQwmimCSFmRSU/view?usp=sharing" target="_blank" class="fs-nav nav-link">Resumé</a></li>
           <li class="nav-item"><a @click="toggleMenu" href="#contact" class="fs-nav nav-link">Contact</a></li>
         </ul>
         <div class="hamburger" :class="{ 'active': isMenuOpen }" @click="toggleMenu">
